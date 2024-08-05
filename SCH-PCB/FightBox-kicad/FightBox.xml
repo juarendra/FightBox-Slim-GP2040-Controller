@@ -1,0 +1,1328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\jrjua\Documents\Pribadi\Github\FightBox-Slim-GP2040-Controller\SCH-PCB\FightBox-kicad\FightBox.kicad_sch</source>
+    <date>5/8/2024 11:39:31 am</date>
+    <tool>Eeschema 7.0.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>FightBox.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="A1">
+      <value>RP2040-Zero</value>
+      <footprint>RP2040-Zero:RP2040-Zero</footprint>
+      <libsource lib="RP2040-Zero" part="RP2040-Zero" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf58baf4-bf5f-4d37-ad55-da0f36331519</tstamps>
+    </comp>
+    <comp ref="Brd1">
+      <value>SSD1306</value>
+      <footprint>oled:128x64OLED</footprint>
+      <libsource lib="oled" part="SSD1306" description="SSD1306 OLED"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="SSD1306 OLED"/>
+      <property name="ki_keywords" value="SSD1306"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3796507a-0f25-467a-bb1f-d2c9300c2c72</tstamps>
+    </comp>
+    <comp ref="BZ1">
+      <value>Buzzer</value>
+      <footprint>Buzzer_Beeper:Buzzer_Murata_PKLCS1212E</footprint>
+      <libsource lib="Device" part="Buzzer" description="Buzzer, polarized"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Buzzer, polarized"/>
+      <property name="ki_keywords" value="quartz resonator ceramic"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15865bf7-793d-4973-9fae-08c16e2a56e4</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_6.4mm_M6</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5950dd7a-4a80-4c75-95d0-1e2f0aba37cb</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_6.4mm_M6</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7af0678-0c87-4259-8435-e9bc1f879ab9</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_6.4mm_M6</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25a2139c-12fc-48eb-b886-46fbaba839fc</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_6.4mm_M6</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa9caa35-100d-4969-966b-cd426a5f4b77</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_6.4mm_M6</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dbf943cd-bc4a-4d56-a74e-50172660b4d8</tstamps>
+    </comp>
+    <comp ref="H6">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_6.4mm_M6</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f676cee5-4650-4552-95fb-e0b4a7007605</tstamps>
+    </comp>
+    <comp ref="H7">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_6.4mm_M6</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69278e0d-cbfb-46ee-8e09-23d359f4273b</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>i2c_pin-Lily58-cache</value>
+      <footprint>solfe:1pin_conn</footprint>
+      <libsource lib="sofle" part="i2c_pin-Lily58-cache" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3db78d4a-e8a7-4f4b-9421-905d0baf4ac4</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>i2c_pin-Lily58-cache</value>
+      <footprint>solfe:1pin_conn</footprint>
+      <libsource lib="sofle" part="i2c_pin-Lily58-cache" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34e57f0b-e1aa-444e-9d85-d889f2cf24ce</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>i2c_pin-Lily58-cache</value>
+      <footprint>solfe:1pin_conn</footprint>
+      <libsource lib="sofle" part="i2c_pin-Lily58-cache" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b9e8b7e-7b84-4282-beb7-b41a0c881693</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>i2c_pin-Lily58-cache</value>
+      <footprint>solfe:1pin_conn</footprint>
+      <libsource lib="sofle" part="i2c_pin-Lily58-cache" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4cde46e9-867b-44ec-abe4-dae41e002eb6</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>i2c_pin-Lily58-cache</value>
+      <footprint>solfe:1pin_conn</footprint>
+      <libsource lib="sofle" part="i2c_pin-Lily58-cache" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d903fcdb-b660-4a99-8472-5e60b67b4a83</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 3-pole, both open"/>
+      <property name="ki_keywords" value="Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ef938dc-862f-4363-a3a7-74f1474dd366</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 3-pole, both open"/>
+      <property name="ki_keywords" value="Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>daa1c1f0-032c-4877-95be-6e10eea8a991</tstamps>
+    </comp>
+    <comp ref="JP3">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 3-pole, both open"/>
+      <property name="ki_keywords" value="Jumper SPDT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0238acea-1b76-457f-9689-21d88a9cc7c4</tstamps>
+    </comp>
+    <comp ref="JP4">
+      <value>Jumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 2-pole, open"/>
+      <property name="ki_keywords" value="Jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb20bee7-9a0a-4aa0-81bd-3be954cf3da2</tstamps>
+    </comp>
+    <comp ref="JP5">
+      <value>Jumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 2-pole, open"/>
+      <property name="ki_keywords" value="Jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5d02ecc8-e98f-411b-8df5-4e2b4e1f7256</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56436f1c-2055-4866-af4b-fa5dc327208c</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8dfcc445-e11d-4972-8201-474e0bc94c7e</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62e7e36c-25df-477f-b2ae-510aba61b511</tstamps>
+    </comp>
+    <comp ref="L4">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b23acb42-7bb8-4fd7-8977-f8d3afce7f82</tstamps>
+    </comp>
+    <comp ref="L5">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a40848de-4d00-4975-b474-ad7a938f06a4</tstamps>
+    </comp>
+    <comp ref="L6">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4f84cf1-d06e-44c7-815f-51d326d4eb60</tstamps>
+    </comp>
+    <comp ref="L7">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cfb68550-a77e-4192-ab53-56e2a896f4ee</tstamps>
+    </comp>
+    <comp ref="L8">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>515c65ee-d513-4d10-b60d-8b15f5fe1b97</tstamps>
+    </comp>
+    <comp ref="L9">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1eec5133-18f9-4b5d-8fbe-3cc63f9d5874</tstamps>
+    </comp>
+    <comp ref="L10">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d5e48a6-7674-4626-a552-e3fda1d9629d</tstamps>
+    </comp>
+    <comp ref="L11">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>81e9b9bd-f07f-4c88-81cc-e4d22d2f0400</tstamps>
+    </comp>
+    <comp ref="L12">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e3471f9-1e84-4521-9bec-5aa1351fa1b2</tstamps>
+    </comp>
+    <comp ref="L13">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>befcd3ce-937c-4ddd-80f5-7a7b9552a5c1</tstamps>
+    </comp>
+    <comp ref="L14">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>726a1960-e466-4845-b262-d58fbbf9b1f2</tstamps>
+    </comp>
+    <comp ref="L15">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35307388-6f16-4b8d-8721-c898940289cd</tstamps>
+    </comp>
+    <comp ref="L16">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67e23e16-0f56-4790-9fab-f7e11551bd82</tstamps>
+    </comp>
+    <comp ref="L17">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a3014f9-bc75-4d7f-a4a3-ac1fb326b668</tstamps>
+    </comp>
+    <comp ref="L18">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15c30107-7e4e-4ed2-b82e-3d2c12053929</tstamps>
+    </comp>
+    <comp ref="L19">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df31b484-6ff6-465e-84d3-ab17c09a1d21</tstamps>
+    </comp>
+    <comp ref="L20">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18285dad-a352-4b2d-b132-ce10959e9732</tstamps>
+    </comp>
+    <comp ref="L21">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>999bf4ea-adb0-415e-b3da-a36dc0185571</tstamps>
+    </comp>
+    <comp ref="L22">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b5a4093-1a1d-46b5-936a-db95cce391da</tstamps>
+    </comp>
+    <comp ref="L23">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5779571b-749f-48eb-8e14-24e477b2db52</tstamps>
+    </comp>
+    <comp ref="L24">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6be5546a-0317-4f18-ba2e-ab9bace8af6b</tstamps>
+    </comp>
+    <comp ref="L25">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6979a8bf-1e0b-45d0-a0d8-2c2fff3882bd</tstamps>
+    </comp>
+    <comp ref="L26">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1fbef872-bd94-48db-8c65-c18b7a297c39</tstamps>
+    </comp>
+    <comp ref="L27">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1f02845-a367-4e3f-8f79-1f609ca172e0</tstamps>
+    </comp>
+    <comp ref="L28">
+      <value>kbd_SK6812MINI</value>
+      <footprint>kbd:SK6812MINI_rev</footprint>
+      <libsource lib="choc" part="kbd_SK6812MINI" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a216dbaa-c866-411f-8ab0-1b55d4202a27</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H5mm</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060e24ed8</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H5mm</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060e26611</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H5mm</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060e26c90</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H5mm</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060e272b9</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H5mm</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060e27d9a</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm_H5mm</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060e28459</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_Push</value>
+      <footprint>keyswitch:Kailh_socket_PG1350</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060ebc7d7</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_Push</value>
+      <footprint>keyswitch:Kailh_socket_PG1350</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060ec2d3f</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_Push</value>
+      <footprint>keyswitch:Kailh_socket_PG1350</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060ec3fe9</tstamps>
+    </comp>
+    <comp ref="SW10">
+      <value>SW_Push</value>
+      <footprint>keyswitch:Kailh_socket_PG1350</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060ec33be</tstamps>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_Push</value>
+      <footprint>keyswitch:Kailh_socket_PG1350</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060ec4474</tstamps>
+    </comp>
+    <comp ref="SW12">
+      <value>SW_Push</value>
+      <footprint>keyswitch:Kailh_socket_PG1350</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060ec0bb3</tstamps>
+    </comp>
+    <comp ref="SW13">
+      <value>SW_Push</value>
+      <footprint>keyswitch:Kailh_socket_PG1350</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060ec37aa</tstamps>
+    </comp>
+    <comp ref="SW14">
+      <value>SW_Push</value>
+      <footprint>keyswitch:Kailh_socket_PG1350</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060ec4852</tstamps>
+    </comp>
+    <comp ref="SW15">
+      <value>SW_Push</value>
+      <footprint>keyswitch:Kailh_socket_PG1350</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060ec0fb1</tstamps>
+    </comp>
+    <comp ref="SW16">
+      <value>SW_Push</value>
+      <footprint>keyswitch:Kailh_socket_PG1350</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060ec3cac</tstamps>
+    </comp>
+    <comp ref="SW17">
+      <value>SW_Push</value>
+      <footprint>keyswitch:Kailh_socket_PG1350</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060ec4d39</tstamps>
+    </comp>
+    <comp ref="SW18">
+      <value>SW_Push</value>
+      <footprint>keyswitch:Kailh_socket_PG1350</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060ec0151</tstamps>
+    </comp>
+    <comp ref="SW19">
+      <value>SW_PUSH</value>
+      <footprint>keyswitch:Kailh_socket_MX</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c1a00ee-8b39-4d30-868b-c88fa11d85c5</tstamps>
+    </comp>
+    <comp ref="SW20">
+      <value>SW_PUSH</value>
+      <footprint>keyswitch:Kailh_socket_MX</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30dd2a58-18a8-4f0e-b16e-430b22d1978e</tstamps>
+    </comp>
+    <comp ref="SW21">
+      <value>SW_PUSH</value>
+      <footprint>keyswitch:Kailh_socket_MX</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eeed4a34-84d7-4ed6-abb6-39923eafea8a</tstamps>
+    </comp>
+    <comp ref="SW22">
+      <value>SW_PUSH</value>
+      <footprint>keyswitch:Kailh_socket_MX</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c42b9fbd-6a65-4403-a476-a90558ab14f1</tstamps>
+    </comp>
+    <comp ref="SW23">
+      <value>SW_PUSH</value>
+      <footprint>keyswitch:Kailh_socket_MX</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0b57040-5b4c-4823-8352-0da14dd1d726</tstamps>
+    </comp>
+    <comp ref="SW24">
+      <value>SW_PUSH</value>
+      <footprint>keyswitch:Kailh_socket_MX</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>138ec33d-75ad-4a89-96d5-5b54210f1c0c</tstamps>
+    </comp>
+    <comp ref="SW25">
+      <value>SW_PUSH</value>
+      <footprint>keyswitch:Kailh_socket_MX</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f57ec9a6-aa66-4eb2-a9dd-896f2710b3e4</tstamps>
+    </comp>
+    <comp ref="SW26">
+      <value>SW_PUSH</value>
+      <footprint>keyswitch:Kailh_socket_MX</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>883bcf9e-7e59-417a-a6c4-c58607d2636e</tstamps>
+    </comp>
+    <comp ref="SW27">
+      <value>SW_PUSH</value>
+      <footprint>keyswitch:Kailh_socket_MX</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>134e9414-8399-4ca0-876a-bfc477f7a3e2</tstamps>
+    </comp>
+    <comp ref="SW28">
+      <value>SW_PUSH</value>
+      <footprint>keyswitch:Kailh_socket_MX</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10f05504-05c3-4918-bae5-81b433cccbfe</tstamps>
+    </comp>
+    <comp ref="SW29">
+      <value>SW_PUSH</value>
+      <footprint>keyswitch:Kailh_socket_MX</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7313825c-01fe-48f2-8bb6-c360cdba46b8</tstamps>
+    </comp>
+    <comp ref="SW30">
+      <value>SW_PUSH</value>
+      <footprint>keyswitch:Kailh_socket_MX</footprint>
+      <libsource lib="kbd" part="SW_PUSH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="FightBox.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9bafd97-53fe-4110-a3ad-762746430293</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="Buzzer">
+      <description>Buzzer, polarized</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Buzzer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">BZ</field>
+        <field name="Value">Buzzer</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="-" type="passive"/>
+        <pin num="2" name="+" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_2_Open">
+      <description>Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*2Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_3_Open">
+      <description>Jumper, 3-pole, both open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*3Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_3_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="RP2040-Zero" part="RP2040-Zero">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RP2040-Zero</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GPIO0" type="bidirectional"/>
+        <pin num="2" name="GPIO1" type="bidirectional"/>
+        <pin num="3" name="GPIO2" type="bidirectional"/>
+        <pin num="4" name="GPIO3" type="bidirectional"/>
+        <pin num="5" name="GPIO4" type="bidirectional"/>
+        <pin num="6" name="GPIO5" type="bidirectional"/>
+        <pin num="7" name="GPIO6" type="bidirectional"/>
+        <pin num="8" name="GPIO7" type="bidirectional"/>
+        <pin num="9" name="GPIO8" type="bidirectional"/>
+        <pin num="10" name="GPIO9" type="bidirectional"/>
+        <pin num="11" name="GPIO10" type="bidirectional"/>
+        <pin num="12" name="GPIO11" type="bidirectional"/>
+        <pin num="13" name="GPIO12" type="bidirectional"/>
+        <pin num="14" name="GPIO13" type="bidirectional"/>
+        <pin num="15" name="GPIO14" type="bidirectional"/>
+        <pin num="16" name="GPIO15" type="bidirectional"/>
+        <pin num="17" name="GPIO26" type="bidirectional"/>
+        <pin num="18" name="GPIO27" type="bidirectional"/>
+        <pin num="19" name="GPIO28" type="bidirectional"/>
+        <pin num="20" name="GPIO29" type="bidirectional"/>
+        <pin num="21" name="3V3" type="power_out"/>
+        <pin num="22" name="5V" type="power_in"/>
+        <pin num="23" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="choc" part="kbd_SK6812MINI">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">kbd_SK6812MINI</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DOUT" type="output"/>
+        <pin num="2" name="VSS" type="power_in"/>
+        <pin num="3" name="DIN" type="input"/>
+        <pin num="4" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="kbd" part="SW_PUSH">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="oled" part="SSD1306">
+      <description>SSD1306 OLED</description>
+      <footprints>
+        <fp>SSD1306-128x64_OLED:SSD1306</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Brd</field>
+        <field name="Value">SSD1306</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="VCC" type="input"/>
+        <pin num="3" name="SCL" type="input"/>
+        <pin num="4" name="SDA" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="sofle" part="i2c_pin-Lily58-cache">
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+        <fp>Socket?Strip?Straight?1X*</fp>
+        <fp>Socket?Strip?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">i2c_pin-Lily58-cache</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="RP2040-Zero">
+      <uri>C:\Users\jrjua\Documents\Pribadi\Github\FightBox-Slim-GP2040-Controller\SCH-PCB\FightBox-kicad/RP2040-Zero.pretty/RP2040-Zero.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="choc">
+      <uri>C:/Users/jrjua/Documents/Pribadi/MxLEDBitPCB-master/choc/choc.lib</uri>
+    </library>
+    <library logical="kbd">
+      <uri>C:/Users/jrjua/Documents/Pribadi/MxLEDBitPCB-master/choc/kbd.lib</uri>
+    </library>
+    <library logical="oled">
+      <uri>C:\Users\jrjua\Documents\Pribadi\Github\FightBox-Slim-GP2040-Controller\SCH-PCB\FightBox-kicad/SSD1306-128x64_OLED.lib</uri>
+    </library>
+    <library logical="sofle">
+      <uri>C:/Users/jrjua/Documents/Pribadi/SofleKeyboard-master/Sofle_v2/PCB/SofleKeyboard-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="CIRCLE">
+      <node ref="A1" pin="8" pinfunction="GPIO7" pintype="bidirectional"/>
+      <node ref="SW15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW30" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="2" name="CROSS">
+      <node ref="A1" pin="10" pinfunction="GPIO9" pintype="bidirectional"/>
+      <node ref="SW14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW26" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="3" name="DOWN">
+      <node ref="A1" pin="13" pinfunction="GPIO12" pintype="bidirectional"/>
+      <node ref="SW20" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="4" name="GND">
+      <node ref="A1" pin="23" pinfunction="GND" pintype="power_in"/>
+      <node ref="BZ1" pin="2" pinfunction="+" pintype="passive"/>
+      <node ref="JP1" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="JP2" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L10" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L11" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L12" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L13" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L14" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L15" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L16" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L17" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L18" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L19" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L2" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L20" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L21" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L22" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L23" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L24" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L25" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L26" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L27" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L28" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L3" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L4" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L5" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L6" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L7" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L8" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="L9" pin="2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW15" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW16" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW17" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW18" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW20" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW22" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW23" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW24" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW25" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW26" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW27" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW28" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW29" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW30" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="5" name="L1">
+      <node ref="A1" pin="3" pinfunction="GPIO2" pintype="bidirectional"/>
+      <node ref="SW13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW25" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="6" name="L2">
+      <node ref="A1" pin="4" pinfunction="GPIO3" pintype="bidirectional"/>
+      <node ref="SW17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW28" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="7" name="LEFT">
+      <node ref="A1" pin="14" pinfunction="GPIO13" pintype="bidirectional"/>
+      <node ref="SW19" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(A1-GPIO28)">
+      <node ref="A1" pin="19" pinfunction="GPIO28" pintype="bidirectional"/>
+      <node ref="JP4" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(A1-GPIO29)">
+      <node ref="A1" pin="20" pinfunction="GPIO29" pintype="bidirectional"/>
+      <node ref="JP5" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(Brd1-GND)">
+      <node ref="Brd1" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="JP1" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(Brd1-VCC)">
+      <node ref="Brd1" pin="2" pinfunction="VCC" pintype="input"/>
+      <node ref="JP2" pin="2" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(JP3-A)">
+      <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L28" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(L1-DIN)">
+      <node ref="L1" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="L2" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="14" name="Net-(L1-DOUT)">
+      <node ref="L1" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="L3" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(L2-DIN)">
+      <node ref="L2" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="L25" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="16" name="Net-(L3-DOUT)">
+      <node ref="L3" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="L4" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="17" name="Net-(L4-DOUT)">
+      <node ref="L4" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="L5" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="18" name="Net-(L5-DOUT)">
+      <node ref="L5" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="L6" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(L6-DOUT)">
+      <node ref="L6" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="L7" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(L7-DOUT)">
+      <node ref="L7" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="L8" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(L8-DOUT)">
+      <node ref="L8" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="L9" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(L10-DIN)">
+      <node ref="L10" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="L9" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="23" name="Net-(L10-DOUT)">
+      <node ref="L10" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="L11" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(L11-DOUT)">
+      <node ref="L11" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="L12" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="25" name="Net-(L13-DIN)">
+      <node ref="L13" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="L15" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="26" name="Net-(L13-DOUT)">
+      <node ref="L13" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="L14" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(L14-DOUT)">
+      <node ref="L14" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="L16" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(L15-DIN)">
+      <node ref="L15" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="L17" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="29" name="Net-(L16-DOUT)">
+      <node ref="L16" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="L18" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(L17-DIN)">
+      <node ref="L17" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="L19" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="31" name="Net-(L18-DOUT)">
+      <node ref="L18" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="L20" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="32" name="Net-(L19-DIN)">
+      <node ref="L19" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="L21" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="33" name="Net-(L20-DOUT)">
+      <node ref="L20" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="L22" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="34" name="Net-(L21-DIN)">
+      <node ref="L21" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="L23" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="35" name="Net-(L22-DOUT)">
+      <node ref="L22" pin="1" pinfunction="DOUT" pintype="output"/>
+      <node ref="L24" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="36" name="Net-(L25-DIN)">
+      <node ref="L25" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="L26" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="37" name="Net-(L26-DIN)">
+      <node ref="L26" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="L27" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="38" name="Net-(L27-DIN)">
+      <node ref="L27" pin="3" pinfunction="DIN" pintype="input"/>
+      <node ref="L28" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="39" name="OPT1">
+      <node ref="A1" pin="15" pinfunction="GPIO14" pintype="bidirectional"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="40" name="OPT2">
+      <node ref="A1" pin="16" pinfunction="GPIO15" pintype="bidirectional"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="41" name="OPT3">
+      <node ref="A1" pin="17" pinfunction="GPIO26" pintype="bidirectional"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="42" name="OPT4">
+      <node ref="A1" pin="18" pinfunction="GPIO27" pintype="bidirectional"/>
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="43" name="OPT5">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="JP4" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="44" name="OPT6">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="JP5" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="45" name="R1">
+      <node ref="A1" pin="5" pinfunction="GPIO4" pintype="bidirectional"/>
+      <node ref="SW12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW24" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="46" name="R2">
+      <node ref="A1" pin="6" pinfunction="GPIO5" pintype="bidirectional"/>
+      <node ref="SW16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW29" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="47" name="RIGHT">
+      <node ref="A1" pin="12" pinfunction="GPIO11" pintype="bidirectional"/>
+      <node ref="SW21" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="48" name="SCL">
+      <node ref="Brd1" pin="3" pinfunction="SCL" pintype="input"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="49" name="SDA">
+      <node ref="Brd1" pin="4" pinfunction="SDA" pintype="input"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="50" name="SQUARE">
+      <node ref="A1" pin="9" pinfunction="GPIO8" pintype="bidirectional"/>
+      <node ref="SW10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW22" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="51" name="TRIANGLE">
+      <node ref="A1" pin="7" pinfunction="GPIO6" pintype="bidirectional"/>
+      <node ref="SW11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW23" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="52" name="UP">
+      <node ref="A1" pin="11" pinfunction="GPIO10" pintype="bidirectional"/>
+      <node ref="SW18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW27" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="53" name="VCC">
+      <node ref="A1" pin="22" pinfunction="5V" pintype="power_in"/>
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="L1" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L10" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L11" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L12" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L13" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L14" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L15" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L16" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L17" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L18" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L19" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L2" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L20" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L21" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L22" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L23" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L24" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L25" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L26" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L27" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L28" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L3" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L4" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L5" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L6" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L7" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L8" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="L9" pin="4" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="54" name="buzzer">
+      <node ref="BZ1" pin="1" pinfunction="-" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="55" name="din">
+      <node ref="A1" pin="2" pinfunction="GPIO1" pintype="bidirectional"/>
+      <node ref="L12" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="56" name="din2">
+      <node ref="A1" pin="1" pinfunction="GPIO0" pintype="bidirectional"/>
+      <node ref="JP3" pin="3" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="57" name="din2_">
+      <node ref="JP3" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="L24" pin="1" pinfunction="DOUT" pintype="output"/>
+    </net>
+    <net code="58" name="unconnected-(A1-3V3-Pad21)">
+      <node ref="A1" pin="21" pinfunction="3V3" pintype="power_out"/>
+    </net>
+    <net code="59" name="unconnected-(L23-DIN-Pad3)">
+      <node ref="L23" pin="3" pinfunction="DIN" pintype="input"/>
+    </net>
+  </nets>
+</export>
